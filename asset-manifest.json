@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/apiichi/react-study02.git/static/css/main.da4e9442.chunk.css",
+    "main.js": "/apiichi/react-study02.git/static/js/main.01676889.chunk.js",
+    "main.js.map": "/apiichi/react-study02.git/static/js/main.01676889.chunk.js.map",
+    "runtime-main.js": "/apiichi/react-study02.git/static/js/runtime-main.f4d7fb95.js",
+    "runtime-main.js.map": "/apiichi/react-study02.git/static/js/runtime-main.f4d7fb95.js.map",
+    "static/js/2.b3d3bc0a.chunk.js": "/apiichi/react-study02.git/static/js/2.b3d3bc0a.chunk.js",
+    "static/js/2.b3d3bc0a.chunk.js.map": "/apiichi/react-study02.git/static/js/2.b3d3bc0a.chunk.js.map",
+    "index.html": "/apiichi/react-study02.git/index.html",
+    "precache-manifest.215598aaba9e1660858211231d8b416a.js": "/apiichi/react-study02.git/precache-manifest.215598aaba9e1660858211231d8b416a.js",
+    "service-worker.js": "/apiichi/react-study02.git/service-worker.js",
+    "static/css/main.da4e9442.chunk.css.map": "/apiichi/react-study02.git/static/css/main.da4e9442.chunk.css.map",
+    "static/js/2.b3d3bc0a.chunk.js.LICENSE.txt": "/apiichi/react-study02.git/static/js/2.b3d3bc0a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4d7fb95.js",
+    "static/js/2.b3d3bc0a.chunk.js",
+    "static/css/main.da4e9442.chunk.css",
+    "static/js/main.01676889.chunk.js"
+  ]
+}
